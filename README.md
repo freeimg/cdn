@@ -1,2 +1,2 @@
 # cdn
-My CDN
+My C
